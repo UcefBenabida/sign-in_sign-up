@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FPBMGroups</string>
+    <string name="welcome_in_fpbmgroups">Welcome in FPBMGroups</string>
+    <string name="input_email_hunt">Email</string>
+    <string name="input_password_hunt">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="login_to_continue">login to continue</string>
+    <string name="add_image">Add Image</string>
+    <string name="name_hunt">Name</string>
+    <string name="first_name_hunt">First Name</string>
+    <string name="confirm_password_hunt">Confirm Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
